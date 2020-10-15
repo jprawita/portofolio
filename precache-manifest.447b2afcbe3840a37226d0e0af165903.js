@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36a6d0f884174128e592",
-    "url": "/portofolio/css/app.ee258262.css"
+    "revision": "a4de2d0fb7adba28d31d",
+    "url": "/portofolio/css/app.8ad86e9b.css"
   },
   {
     "revision": "3af2ae451e13de16cd97",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/img/vuetify.70e79872.png"
   },
   {
-    "revision": "93ca8db4d5873f7571e0f4947b3ffe32",
+    "revision": "bfe27fdc6ae9178ed653b59f22452955",
     "url": "/portofolio/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/js/about.d9c1dbcb.js"
   },
   {
-    "revision": "36a6d0f884174128e592",
-    "url": "/portofolio/js/app.4e9848ea.js"
+    "revision": "a4de2d0fb7adba28d31d",
+    "url": "/portofolio/js/app.ef73cd58.js"
   },
   {
     "revision": "3af2ae451e13de16cd97",
