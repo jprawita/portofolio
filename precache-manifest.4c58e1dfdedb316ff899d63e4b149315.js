@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/img/vuetify.70e79872.png"
   },
   {
-    "revision": "bfe27fdc6ae9178ed653b59f22452955",
+    "revision": "45c72806d12d530d37f3dd765a966492",
     "url": "/portofolio/index.html"
   },
   {
